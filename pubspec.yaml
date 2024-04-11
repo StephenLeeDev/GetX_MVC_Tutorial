@@ -13,6 +13,9 @@ dependencies:
 
   cupertino_icons: ^1.0.6
 
+  get: ^4.6.6
+  get_connect_logger: ^1.0.3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
